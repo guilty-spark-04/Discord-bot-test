@@ -1,0 +1,23 @@
+{
+  "name": "s2be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "distube": "^2.8.8",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.19",
+    "natural-brain": "^0.3.2",
+    "node-opus": "^0.3.3",
+    "python-shell": "^2.0.3",
+    "ytdl-core": "^4.4.4"
+  }
+}
